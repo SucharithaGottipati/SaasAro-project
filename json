@@ -1,0 +1,21 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 1,
+            "name": "Standard Room",
+            "description": "A cozy room with all the basic amenities",
+            "price": 100,
+            "image": "https://example.com/standard-room.jpg",
+            "available": true
+        },
+        {
+            "id": 2,
+            "name": "Premium Room",
+            "description": "A luxurious room with all the advanced amenities",
+            "price": 200,
+            "image": "https://example.com/premium-room.jpg",
+            "available": false
+        }
+    ]
+}
